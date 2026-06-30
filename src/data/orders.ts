@@ -23,5 +23,6 @@ export const orders:OrderProps[] = [
         status:"возврат",
         phone:"+380683234567",
         price:1234.50,
-    }
+    },
+    
 ]

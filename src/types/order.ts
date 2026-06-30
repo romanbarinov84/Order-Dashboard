@@ -1,8 +1,9 @@
+import { Status } from "../utils/status";
 
 export interface OrderProps{
     id:number;
     customer:string;
-    status:string;
+    status:Status;
     phone:string;
     price:number;
 }
